@@ -1,0 +1,28 @@
+.Task1{
+    text-align: center;
+    background-color: lightpink;
+}
+h1{
+    color:rgb(69, 69, 3);
+}
+h3{
+    color: red;
+}
+p{
+    color: green;
+    font-size: large;
+    font-weight: 700;
+}
+.Task2{
+    text-align: center;
+    background-color: turquoise;
+}
+.Task3{
+    text-align: center;
+    background-color:cornflowerblue;
+}
+label{
+    color:rgb(69, 69, 3);
+    font-size: 30px;
+    font-weight: 700;
+}
